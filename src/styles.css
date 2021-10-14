@@ -23,6 +23,10 @@ a {
   color: whitesmoke;
   background: #6c63ff;
 }
+a:hover {
+  background: var(--secondary-color);
+  color: var(--primary-color);
+}
 .photopage {
   display: block;
   margin: 0px auto;
