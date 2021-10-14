@@ -4,6 +4,23 @@
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
+body {
+  background-color: var(--secondary-color);
+}
+h1 {
+  font-family: monospace;
+  color: var(--primary-color);
+}
+
+a {
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: whitesmoke;
+  background: #6c63ff;
+}
 .photopage {
   display: block;
   margin: 0px auto;
