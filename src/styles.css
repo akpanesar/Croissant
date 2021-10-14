@@ -7,6 +7,7 @@
 body {
   background-color: var(--secondary-color);
   margin: 30px;
+  text-align: center;
 }
 h1 {
   font-family: monospace;
