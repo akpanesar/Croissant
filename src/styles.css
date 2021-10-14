@@ -6,6 +6,7 @@
 
 body {
   background-color: var(--secondary-color);
+  text-align: center;
 }
 h1 {
   font-family: monospace;
@@ -24,4 +25,9 @@ a {
 .photopage {
   display: block;
   margin: 0px auto;
+}
+
+.container {
+  margin: 30 auto;
+  padding: 20px;
 }
